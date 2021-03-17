@@ -1,9 +1,11 @@
 - **安装**
-- [使用宝塔面板部署网站](https://blog.anank.ke/w/SSPanel_with_DROP_DATABASE_BT)
 - [使用 LNMP 部署网站](https://blog.anank.ke/w/SSPanel_with_LNMP)
-- [使用 oneinstack 部署 SSPanel UIM](install-using-ois)
-- [后端一键安装脚本](onekey-install-for-node)
-- [SSPanel v3 mod 后端（Docker）对接](ssrmu-docker)
+- [使用 LNMP 部署网站(备用链接)](https://web.archive.org/web/20201128181013/https://blog.anank.ke/w/SSPanel_with_LNMP)
+- [使用宝塔面板部署网站](https://blog.anank.ke/w/SSPanel_with_DROP_DATABASE_BT)
+- [使用宝塔面板部署网站(备用链接)](https://web.archive.org/web/20201128180515/https://blog.anank.ke/w/SSPanel_with_DROP_DATABASE_BT)
+- [使用 OneinStack 部署 SSPanel UIM](install-using-oneinstack)
+- [SSR后端一键安装脚本](turnkey-install-for-ssr-node)
+- [SSR后端 Docker 对接](ssrmu-docker)
 - [单端口多用户教程（91vps版）](ssrmu-setup-91vps)
 - [单端口多用户教程（魔改原版）](ssrmu-setup-zj)
 - [支付系统对接教程](setup-payment-gateway)
@@ -12,13 +14,16 @@
 - **进阶**
 - [常用审计规则](useful-detect-rules)
 - [各示例图片路径](imgs-dir)
-- 手动搭建 Python 后端
 - [Telegram OAuth 配置](setup-telegram-oauth)
 - [v2ray indexyz 版使用教程](v2ray-indexyz)
 - [v2ray Rico 版使用教程](v2ray-rico)
+- [v2ray Poseidon 使用教程](https://poseidon-gfw.cc/shi-yong-v2ray-poseidon/v2ray-poseidon-with-sspanel)
+- [Trojan Poseidon 使用教程](https://poseidon-gfw.cc/shi-yong-trojan-poseidon/with-sspanel)
+- [Trojan 使用教程](trojan-du5)
+- [Trojan Yahagi.js 使用教程](trojan-cluster)
 - [使用 CloudHammer Seeds 优化 webapi 的 CPU 占用](use-cloudhammer-seeds-as-webapi)
 - **开发**
-- SSPanel V3 Mod UIM Git Workflow
+- SSPanel UIM Git Workflow
 - 开发规范
 - SSPanel UIM Wiki 贡献教程
 - **Q & A**
