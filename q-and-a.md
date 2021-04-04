@@ -9,7 +9,7 @@
 
 ## 从其他版本(91vps,魔改原版）等更新来的，节点列表报错500
 
-- 请手动对照 .config.php.example 更新 .config.php，或者使用 `php xcat update` 自动更新 .config.php
+- 请手动对照 .config.php.example 更新 .config.php，或者使用 `php xcat Update` 自动更新 .config.php
 
 ## 更新订阅链接失效解決方法：
 
@@ -124,5 +124,5 @@ Git 版本过低，请前往 [Git 官网下载页](https://git-scm.com/downloads
 请仔细对比自己的数据库与dev版本数据表以及数据项目的不同并手动添加，并且要注意更改 cron 任务的指令格式，并在完成代码升级后运行。
 
 ```bash
-php xcat update
+php xcat Update
 ```
